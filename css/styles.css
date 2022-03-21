@@ -2,22 +2,22 @@ body {
   font-family: "Open Sans", sans-serif; }
 
 h1, h2, h3 {
-  font-family: "Lobster", cursive; }
+  font-family: "Open Sans", cursive; }
 
 h2 {
-  color: #3046C5; }
+  color: #3bcee2fb; }
 
 header h2 {
-  color: #CEC8FF; }
+  color: #9c70e4; }
 
 .site-footer {
-  background-image: linear-gradient(#CEC8FF, white);
+  background-image: linear-gradient(#9c70e4, white);
   padding: 20px 0; }
 
 .jumbotron {
   margin: 0;
   padding: 30px;
-  background-image: linear-gradient(to right, #5637dd, #3046C5, #60106b);
+  background-image: linear-gradient(to right, #37dd77, #3bcee2fb, #4e106b);
   color: white; }
 
 .row-content {
@@ -26,10 +26,10 @@ header h2 {
   min-height: 200px; }
 
 .navbar {
-  background-color: #901CAD; }
+  background-color: #3bcee2fb; }
 
 .carousel {
-  border: solid #5637dd; }
+  border: solid #37dd77; }
 
 .carousel-caption {
   background-color: rgba(0, 0, 0, 0.5); }
@@ -45,5 +45,5 @@ header h2 {
   color: white; }
 
 #loginModal .modal-header {
-  background-color: #901CAD;
+  background-color: #3bcee2fb;
   color: white; }
